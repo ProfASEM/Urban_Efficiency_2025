@@ -62,7 +62,7 @@ The core metric used in this project is:
 ## 📁 Project Structure
 - `/notebooks` → data analysis and calculations  
 - `/dashboard` → Power BI dashboard file  
-- `/data` → imported datasets  
+- `/data` → data
 - `/images` → dashboard screenshots  
 
 ---

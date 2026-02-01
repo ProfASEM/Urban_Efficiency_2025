@@ -1,0 +1,15 @@
+city,country,col_index,rent_index,col_plus_rent_index,groceries_index,restaurant_price_index,purchasing_power_index,year,region_group
+Riyadh,SA,47.3,25.4,37.6,44.5,41.8,134.2,2025,Gulf
+Jeddah,SA,41.9,11.8,28.6,39.3,34.9,151.2,2025,Gulf
+Dubai,AE,58,51.2,55,45.3,62.9,125.5,2025,Gulf
+Abu Dhabi,AE,52.6,36.1,45.3,43.3,59.2,158.8,2025,Gulf
+Doha,QA,47.8,35,42.1,42.8,46,145.4,2025,Gulf
+Kuwait City,KW,42,22.1,33.2,33.5,48.9,128.5,2025,Gulf
+Muscat,OM,40.4,14.2,28.8,37.8,41,112.7,2025,Gulf
+Manama,BH,47.3,19.8,35.1,43.5,49.7,118.5,2025,Gulf
+Amman,JO,39.6,9.7,26.3,36.3,40.4,48.5,2025,Levant
+Beirut,LB,42.4,18.1,31.6,33.5,41.2,32,2025,Levant
+Istanbul,TR,39.8,20.1,31.1,39.1,42.4,52.6,2025,Türkiye
+Ankara,TR,35.5,13.7,25.9,36.2,37,53.2,2025,Türkiye
+Cairo,EG,19.6,4.9,13.1,20,18.5,22.9,2025,North Africa
+Casablanca,MA,31.4,10.8,22.4,32.1,26.8,41.5,2025,North Africa
